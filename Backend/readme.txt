@@ -1,0 +1,3 @@
+core is the project where the setting ...
+isimm to manage all models
+isimm_api to manage api
